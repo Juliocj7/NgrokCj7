@@ -27,7 +27,7 @@
 ![Screenshot_20220520-091053_Termux](https://user-images.githubusercontent.com/81049859/169535602-ec8102f0-62c1-429a-bc22-1869292ed919.png)
 
 ## NgrokCj7 :
-* Instala **Ngrok** en Termux (según la arquitectura de tu dispositivo) correctamente y sin errores.
+* Instala la nueva versión de **Ngrok** en Termux (según la arquitectura de tu dispositivo) correctamente y sin errores.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
