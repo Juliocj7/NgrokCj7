@@ -23,9 +23,8 @@
 </details>
 
 
-## Menú Principal :
-![Screenshot_20210828-152128_Termux](https://user-images.githubusercontent.com/81049859/131234586-2576c1ab-2617-401e-aea2-af3f158aa00b.png)
-
+## Screenshot :
+![Screenshot_20220520-091053_Termux](https://user-images.githubusercontent.com/81049859/169535602-ec8102f0-62c1-429a-bc22-1869292ed919.png)
 
 ## NgrokCj7 :
 * Instala **Ngrok** en Termux (según la arquitectura de tu dispositivo) correctamente y sin errores.
