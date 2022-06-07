@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,10 +21,8 @@
 
 </details>
 
-
 ## Screenshot :
 ![Screenshot_20220520-092142_Termux](https://user-images.githubusercontent.com/81049859/169537067-63c48950-a8a7-43cd-a9c8-21befba8dc97.png)
-
 
 ## NgrokCj7 :
 * Instala la nueva versión de **Ngrok** en Termux (según la arquitectura de tu dispositivo) correctamente y sin errores.
@@ -40,8 +37,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/NgrokCj7`
 
 * `cd NgrokCj7`
