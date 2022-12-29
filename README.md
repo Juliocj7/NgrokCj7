@@ -23,7 +23,7 @@
 </details>
 
 ## Screenshot :
-![Screenshot_20221228-214938_Termux](https://user-images.githubusercontent.com/81049859/209894194-c8ad403e-c842-4da3-af22-c46160b95722.png)
+![Screenshot_20221228-222038_Termux](https://user-images.githubusercontent.com/81049859/209894987-234395ee-f751-4cc8-929d-fe7bfedd6104.png)
 
 ## NgrokCj7 :
 * Instala la nueva versión de **Ngrok** en Termux (según la arquitectura de tu dispositivo) correctamente y sin errores.
